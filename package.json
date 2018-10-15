@@ -1,0 +1,15 @@
+{
+  "name": "phoenix-react-socket-provider",
+  "version": "1.0.0",
+  "description": "React wrapper for phoenix socket connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phoenix": "^1.3.4",
+    "react": "^16.5.2"
+  }
+}
